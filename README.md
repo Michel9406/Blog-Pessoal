@@ -1,6 +1,6 @@
-# 📝 Blog Pessoal
+# 📝 Papo de Dev
 
-Bem-vindo ao meu blog pessoal! Este projeto foi desenvolvido utilizando o framework Spring para criar um blog onde posso compartilhar minhas ideias, experiências e conhecimentos.
+Bem-vindo ao meu Papo de DEV! Este projeto foi desenvolvido utilizando o framework Spring para criar um blog onde posso compartilhar minhas ideias, experiências e conhecimentos.
 
 ## 📖 Sobre o Projeto
 
